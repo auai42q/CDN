@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "badge",
+  "logoSvg": "house",
   "message": "书屋",
   "color": "blue"
 }
