@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "logoSvg": "house",
-  "message": "书屋",
+  "label": "书屋"
+  "nameLogo": "#4BA840",
+  "message": "开放",
   "color": "blue"
 }
